@@ -49,7 +49,7 @@ li {
   background-color: rgb(244, 244, 244);
   height: 400px;
 }
-@media (max-width: 480px) {
+@media (max-width: 380px) {
   .zen-info-container {
     justify-content: center;
     align-items: center;
